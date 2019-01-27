@@ -25,6 +25,12 @@
 
 + 给小弟我发邮件，我把你拉入这个组织中。tanwnx@outlook.com
 
+## 其他事项
+
++ 小弟只是一个刚入门「机器学习、深度学习」半年的菜鸟，并没有什么厉害之处。只是想深入了解这方面的知识。
+
++ 如果你已经有了这样的仓库，可以尝试导入进来。在头像右左边有一个加号，点击，选择「Import repository」
+
 ## 参考资料
 
 + [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
