@@ -31,6 +31,8 @@
 
 + 如果你已经有了这样的仓库，可以尝试导入进来。在头像右左边有一个加号，点击，选择「Import repository」
 
++ 「GitHub」push 和 pull 速度比较慢，但是自己有 VPN 的。可以设置代理。[看这里](https://gist.github.com/laispace/666dd7b27e9116faece6)
+
 ## 参考资料
 
 + [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
